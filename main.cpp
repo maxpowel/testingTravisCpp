@@ -20,6 +20,7 @@ protected:
     void testHelloWorld(void)
     {
         //std::cout << "Hello, World!" << std::endl;
+        CPPUNIT_ASSERT(false);
     }
 };
 
